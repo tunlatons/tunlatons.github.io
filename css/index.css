@@ -89,3 +89,9 @@ footer {
   text-align: left !important;
 }
 /***** end   text align  ************/
+
+/***** start ************/
+tr:hover {
+  background-color: lightcyan;
+}
+/***** end  ************/
