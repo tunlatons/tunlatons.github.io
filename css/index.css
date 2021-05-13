@@ -91,7 +91,7 @@ footer {
 /***** end   text align  ************/
 
 /***** start ************/
-tr:hover {
+.hightLight:hover {
   background-color: lightcyan;
   cursor: pointer;
 }
