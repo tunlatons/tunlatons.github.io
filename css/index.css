@@ -79,3 +79,13 @@ footer {
   border-collapse: collapse;
 }
 /***** End   Footer      ************/
+
+/***** start text align  ************/
+.text-right {
+  text-align: right !important;
+}
+
+.text-left {
+  text-align: left !important;
+}
+/***** end   text align  ************/

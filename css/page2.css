@@ -64,3 +64,14 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.outter {
+  width: 40px;
+  background-color: blue;
+}
+
+.inner {
+  width: 10px;
+  background-color: rgb(151, 148, 148);
+  padding: 5px;
+}
