@@ -93,5 +93,6 @@ footer {
 /***** start ************/
 tr:hover {
   background-color: lightcyan;
+  cursor: pointer;
 }
 /***** end  ************/
